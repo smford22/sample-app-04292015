@@ -5,4 +5,4 @@ license          'all_rights'
 description      'Installs/Configures sample-app-04292015'
 long_description 'Installs/Configures sample-app-04292015'
 version          '0.1.0'
-
+depends          'java'
